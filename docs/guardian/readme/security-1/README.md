@@ -29,7 +29,7 @@ MEECO_ISSUER_ORGANIZATION_NAME=
 MEECO_PRESENTATION_DEFINITION_ID="832e996c-**********-9d170fa381a8"
 ```
 
-You might find the values in the portal [https://portal.securevalueexchange.com/](https://portal.securevalueexchange.com/)
+You might find the values in the portal [https://portal-sandbox.securevalueexchange.com/](https://portal-sandbox.securevalueexchange.com/) 
 
 ### Where to find these credentials?
 
